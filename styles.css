@@ -88,7 +88,9 @@ hr {box-sizing: content-box;height: 0;overflow: visible;border: 0;border-top: 1p
 
 .formatted ul {list-style-type: square;margin-left: 42px;margin-bottom: 1.857em;padding: 0}
 
-.mobile .formatted ul {margin-left: 25px}
+@media all and (max-width: 800px) {
+    .formatted ul {margin-left: 25px}
+}
 
 .formatted li {padding: 10px 0 10px 0}
 
@@ -102,13 +104,16 @@ hr {box-sizing: content-box;height: 0;overflow: visible;border: 0;border-top: 1p
 
 .formatted .gist-it-php {padding: 10px 0}
 
-.desktop .formatted .tw_main_right {float: right;margin: 0 0 18px 18px}
+@media all and (min-width: 800px) {
+    .formatted .tw_main_right {float: right;margin: 0 0 18px 18px}
+    .formatted .tw_main_left {float: left;padding: 0 18px 18px 0}
+}
 
-.desktop .formatted .tw_main_left {float: left;padding: 0 18px 18px 0}
+@media all and (max-width: 800px) {
+   .formatted #tw_main {padding: 0 auto 18px}
 
-.mobile .formatted #tw_main {padding: 0 auto 18px}
-
-.mobile .formatted #tw_main img {width: 100%}
+   .formatted #tw_main img {width: 100%}
+}
 
 .formatted .content_image.imagen_full {clear: both;margin: 10px auto}
 
