@@ -262,7 +262,15 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
 
 .list-timeline .posts div {text-transform: uppercase;padding-top: 1px;padding-right: 42px;color: #606569;min-width: 40px;display: block;width: 150px}
 
-.desktop .list-timeline .posts div {float: left}
+@media all and (min-width: 800px) {
+    .list-timeline .posts div.desktop {float: left}
+    .list-timeline .posts div.mobile {display: none}
+}
+
+@media all and (max-width: 800px) {
+    .list-timeline .posts div.mobile {display: block}
+    .list-timeline .posts div.desktop {display: none}
+}
 
 @media all and (max-width: 1000px) {
     .wrapper > * {text-align: left;margin: 0 auto;max-width: calc(100% - 8px);width: 100%;padding: 0 8px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
