@@ -32,9 +32,7 @@
     {> projects/header }
 </haader>
 
-<main class=" index" id="enlaces">
-    {> projects/content }
-</main>
+{> projects/content }
 
 {> commons/menu }
 </body>
