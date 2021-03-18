@@ -221,7 +221,7 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
     .list-timeline .posts div.desktop {display: none}
     .wrapper > * {text-align: left;margin: 0 auto;max-width: calc(100% - 8px);width: 100%;padding: 0 8px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
 
-    #menu li a {font-size: 12px;margin: 10px 0 10px 0;padding: 13px 12px 13px 5px}
+    #menu li a {font-size: 12px;margin: 10px 0 10px 0;padding: 13px 20px 13px 5px}
 
     #menu li a:hover:after, #menu li.selected a:after {right: 8px}
 }
