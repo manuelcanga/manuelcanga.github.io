@@ -236,7 +236,7 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 
 #logo img {margin-top: 40px}
 
-#menu {box-sizing: border-box;-moz-box-sizing: border-box;clear: both;line-height: 0}
+#menu {box-sizing: border-box;-moz-box-sizing: border-box;clear: both;line-height: 0; max-width: 100%}
 
 #menu ul {margin: 0;padding: 0;position: relative}
 
@@ -246,7 +246,7 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 
 #menu li a:hover, #web_home .menu_home a, #web_portfolio .menu_portfolio a,#web_projects .menu_projects a{text-decoration: none;transition: all .15s;color: #fff;opacity: .5}
 
-#menu li a:hover:after,#web_home .menu_home a:after,#web_portfolio .menu_portfolio a:after,#web_projects .menu_projects a:after {background: #fff;opacity: 1;content: "";position: absolute;width: 7px;height: 2px;bottom: 13px;right: 12px;transition: background .3s}
+#menu li a:hover:after,#web_home .menu_home a:after,#web_portfolio .menu_portfolio a:after,#web_projects .menu_projects a:after{background: #fff;opacity: 1;content: "";position: absolute;width: 7px;height: 2px;bottom: 13px;right: 12px;transition: background .3s}
 
 #footer {color: #fff;font-family: Roboto Mono, monospace;background-color: #2b2b2b;background-repeat: no-repeat;background-position: 50%;background-size: cover;position: fixed;margin-top: 100px;display: block;height: 65px;bottom: 0}
 
