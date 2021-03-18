@@ -84,11 +84,11 @@ hr {box-sizing: content-box;height: 0;overflow: visible;border: 0;border-top: 1p
 
 .formatted a {border-bottom: 2px dotted #000}
 
-.formatted strong, .summary-title strong {font-weight: 600}
+.formatted strong, .summary-title strong {font-weight: 750}
 
 .formatted ul {list-style-type: square;margin-left: 42px;margin-bottom: 1.857em;padding: 0}
 
-@media all and (max-width: 1200px) {
+@media all and (max-width: 750px) {
     .formatted ul {margin-left: 25px}
 }
 
@@ -104,15 +104,15 @@ hr {box-sizing: content-box;height: 0;overflow: visible;border: 0;border-top: 1p
 
 .formatted .gist-it-php {padding: 10px 0}
 
-@media all and (min-width: 1200px) {
+@media all and (min-width: 750px) {
     .formatted .tw_main_right {float: right;margin: 0 0 18px 18px}
     .formatted .tw_main_left {float: left;padding: 0 18px 18px 0}
 }
 
-@media screen and (max-width: 1200px) {
-   .formatted #tw_main {padding: 0 auto 18px}
+@media screen and (max-width: 750px) {
+    .formatted #tw_main {padding: 0 auto 18px}
 
-   .formatted #tw_main img {width: 100%}
+    .formatted #tw_main img {width: 100%}
 }
 
 .formatted .content_image.imagen_full {clear: both;margin: 10px auto}
@@ -141,9 +141,9 @@ h5 {font-size: 29px;line-height: 35px}
 
 h6 {font-size: 28px;line-height: 34px}
 
-.heading {font-family: "Open Sans", Arial, sans-serif;font-size: 13px;font-weight: 600;text-transform: uppercase;color: #0c1236;padding: 0;line-height: 34px;margin-bottom: 25px;display: inline}
+.heading {font-family: "Open Sans", Arial, sans-serif;font-size: 13px;font-weight: 750;text-transform: uppercase;color: #0c1236;padding: 0;line-height: 34px;margin-bottom: 25px;display: inline}
 
-.section-head {background: #f2f2f2;line-height: 34px;font-size: 13px;font-family: "Open Sans", Arial, sans-serif;font-weight: 600;text-transform: uppercase;padding: 0 0 0 14px;margin-bottom: 38px;box-sizing: border-box;width: 100%}
+.section-head {background: #f2f2f2;line-height: 34px;font-size: 13px;font-family: "Open Sans", Arial, sans-serif;font-weight: 750;text-transform: uppercase;padding: 0 0 0 14px;margin-bottom: 38px;box-sizing: border-box;width: 100%}
 
 h1.main-heading {font: 20px "Open Sans", Arial, sans-serif;text-transform: uppercase;border-left: 3px solid #2f5fad;padding-left: 14px;line-height: 24px;margin-bottom: 28px;font-weight: bold;color: #272727;position: relative}
 
@@ -178,7 +178,7 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 #redes-sociales li {margin-right: 6px;display: inline-block}
 
 
-@media all and (max-width: 1200px) {
+@media all and (max-width: 750px) {
     .formatted {font-size: 15px}
 
     #redes-sociales {margin: 15px 0 5px}
@@ -187,12 +187,10 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 
     #header #personal-profile {min-height: auto;margin-bottom: 0;padding-bottom: 15px}
 
-    #header #personal-profile .about__photo {display: none}
-
     /* #header #personal-profile .name a {animation: typewriter_movil 4s steps(12) 1s 1 normal both} */
 }
 
-@media all and (min-width: 1200px) {
+@media all and (min-width: 750px) {
     #header .personal-profile__about {position: absolute;height: 260px;display: grid;grid-template-columns:309px 1fr;grid-gap: 25px}
 }
 
@@ -203,12 +201,12 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 
 @-moz-keyframes typewriter
 {
-   from { width: 0; }
+    from { width: 0; }
 }
 
 @-webkit-keyframes typewriter
 {
-   from { width: 0; }
+    from { width: 0; }
 }
 
 @keyframes blinkTextCursor {
@@ -280,21 +278,21 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
 
 .list-timeline .posts div {text-transform: uppercase;padding-top: 1px;padding-right: 42px;color: #606569;min-width: 40px;display: block;width: 150px}
 
-@media all and (min-width: 1200px) {
+@media all and (min-width: 750px) {
     .list-timeline .posts div.desktop {float: left}
     .list-timeline .posts div.mobile {display: none}
 }
 
-@media all and (max-width: 1200px) {
+@media all and (max-width: 750px) {
     .list-timeline .posts div.mobile {display: block}
     .list-timeline .posts div.desktop {display: none}
 }
 
-@media all and (max-width: 1200px) {
+@media all and (max-width: 750px) {
     .wrapper > * {text-align: left;margin: 0 auto;max-width: calc(100% - 8px);width: 100%;padding: 0 8px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
 }
 
-@media all and (max-width: 1200px) {
+@media all and (max-width: 750px) {
     #menu li a {font-size: 12px;margin: 10px 0 10px 0;padding: 13px 16px 13px 5px}
 
     #menu li a:hover:after, #menu li.selected a:after {right: 8px}
