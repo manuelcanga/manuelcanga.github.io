@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>Previo de imágenes en inputs files</title>
+    <meta content="">
+    <style>
+        img#preview-image{
+            max-width:300px;
+        }
+    </style>
+    <script>
+        function previewImage(input, container) {
+            if( input.files.length < 1) {
+              return ;
+            }
+
+           var reader = new FileReader();
+
+           reader.onload = function (e) {
+             document.getElementById(container).src = e.target.result;
+           };
+
+           reader.readAsDataURL(input.files[0]);
+        }
+    </script>
+  </head>
+  <body>
+    <input type='file' onchange="previewImage(this, 'preview-image');" />
+    <img id="preview-image" src="http://placehold.it/300" alt="image preview" />
+
+  </body>
+</html>
