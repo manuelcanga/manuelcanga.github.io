@@ -9,7 +9,6 @@ return [
 	'templates' => [
 			'/index',
 			'/portfolio/index',
-			'/projects/index',
 	],
 
 ];

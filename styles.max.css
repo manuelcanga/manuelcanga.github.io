@@ -142,6 +142,10 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 
 .personal-profile .personal-profile__social a:hover {opacity: 1}
 
+.my_projects {
+    margin-top: 50px;
+}
+
 #logo {float: left}
 
 #logo img {margin-top: 40px}
@@ -154,9 +158,9 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 
 #menu li a {color: #fff;text-decoration: none;display: block;padding: 13px 20px 13px 5px;margin: 10px 20px 10px 0;text-align: left;box-sizing: border-box;font-size: 14px;line-height: 20px;font-family: Roboto Mono, monospace;text-transform: uppercase;font-weight: 700;position: relative}
 
-#menu li a:hover, #web_home .menu_home a, #web_portfolio .menu_portfolio a,#web_projects .menu_projects a{text-decoration: none;transition: all .15s;color: #fff;opacity: .5}
+#menu li a:hover, #web_home .menu_home a, #web_portfolio .menu_portfolio a{text-decoration: none;transition: all .15s;color: #fff;opacity: .5}
 
-#menu li a:hover:after,#web_home .menu_home a:after,#web_portfolio .menu_portfolio a:after,#web_projects .menu_projects a:after{background: #fff;opacity: 1;content: "";position: absolute;width: 7px;height: 2px;bottom: 13px;right: 12px;transition: background .3s}
+#menu li a:hover:after,#web_home .menu_home a:after,#web_portfolio .menu_portfolio a:after{background: #fff;opacity: 1;content: "";position: absolute;width: 7px;height: 2px;bottom: 13px;right: 12px;transition: background .3s}
 
 #footer {color: #fff;font-family: Roboto Mono, monospace;background-color: #2b2b2b;background-repeat: no-repeat;background-position: 50%;background-size: cover;position: fixed;margin-top: 100px;display: block;height: 65px;bottom: 0}
 
