@@ -7,6 +7,4 @@
 
         <p>I offer professional PHP support to development web product as freelancer.
         I can code 10 to 30 hours per week in your project and being like one more in your TEAM. </p>
-
-        <p>Finally, you could be interested in some of <a href="https://gist.github.com/manuelcanga"><strong>my posts</strong></a></p> </div>
 </section>
