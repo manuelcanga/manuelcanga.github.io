@@ -235,12 +235,3 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
       display: none;
    }
 }
-
-@media all and (max-width: 400px) {
-   #personal-profile .name {font-size: 35px; margin-top: 25px; width: 300px; }
-
-   @keyframes typewriter{
-      from{width: 0;}
-      to{width: 261px;}
-   }
-}
