@@ -107,23 +107,21 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 #redes-sociales li {margin-right: 6px;display: inline-block}
 
 @keyframes typewriter {
-    from {width: 0}
-    to {width: calc( 100% - 28px ); }
+   from {width: 0}
+   to {width: calc(100% - 28px); }
 }
 
-@-moz-keyframes typewriter
-{
-    from { width: 0; }
+@-moz-keyframes typewriter {
+   from { width: 0; }
 }
 
-@-webkit-keyframes typewriter
-{
-    from { width: 0; }
+@-webkit-keyframes typewriter {
+   from { width: 0; }
 }
 
 @keyframes blinkTextCursor {
-    from {color: rgba(255, 255, 255, .75)}
-    to {color: transparent}
+   from {color: rgba(255, 255, 255, .75)}
+   to {color: transparent}
 }
 
 #header .personal-profile__work {margin-top: 0;font-size: 16px;line-height: 24px;margin-bottom: 30px;font-weight: normal}
@@ -143,7 +141,7 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 .personal-profile .personal-profile__social a:hover {opacity: 1}
 
 .my_projects {
-    margin-top: 50px;
+   margin-top: 50px;
 }
 
 #logo {float: left}
@@ -158,9 +156,9 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 
 #menu li a {color: #fff;text-decoration: none;display: block;padding: 13px 20px 13px 5px;margin: 10px 20px 10px 0;text-align: left;box-sizing: border-box;font-size: 14px;line-height: 20px;font-family: Roboto Mono, monospace;text-transform: uppercase;font-weight: 700;position: relative}
 
-#menu li a:hover, #web_home .menu_home a, #web_portfolio .menu_portfolio a{text-decoration: none;transition: all .15s;color: #fff;opacity: .5}
+#menu li a:hover, #web_home .menu_home a, #web_portfolio .menu_portfolio a {text-decoration: none;transition: all .15s;color: #fff;opacity: .5}
 
-#menu li a:hover:after,#web_home .menu_home a:after,#web_portfolio .menu_portfolio a:after{background: #fff;opacity: 1;content: "";position: absolute;width: 7px;height: 2px;bottom: 13px;right: 12px;transition: background .3s}
+#menu li a:hover:after, #web_home .menu_home a:after, #web_portfolio .menu_portfolio a:after {background: #fff;opacity: 1;content: "";position: absolute;width: 7px;height: 2px;bottom: 13px;right: 12px;transition: background .3s}
 
 #footer {color: #fff;font-family: Roboto Mono, monospace;background-color: #2b2b2b;background-repeat: no-repeat;background-position: 50%;background-size: cover;position: fixed;margin-top: 100px;display: block;height: 65px;bottom: 0}
 
@@ -195,37 +193,54 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
 .list-timeline .posts div {text-transform: uppercase;padding-top: 1px;padding-right: 42px;color: #606569;min-width: 40px;display: block;width: 150px}
 
 @media all and (min-width: 750px) {
-    .formatted .tw_main_right {float: right;margin: 0 0 18px 18px}
-    .formatted .tw_main_left {float: left;padding: 0 18px 18px 0}
+   .formatted .tw_main_right {float: right;margin: 0 0 18px 18px}
 
-    #header .personal-profile__about {position: absolute;height: 260px;display: grid;grid-template-columns:309px 1fr;grid-gap: 25px}
+   .formatted .tw_main_left {float: left;padding: 0 18px 18px 0}
 
-    .list-timeline .posts div.desktop {float: left}
-    .list-timeline .posts div.mobile {display: none}
+   #header .personal-profile__about {position: absolute;height: 260px;display: grid;grid-template-columns:309px 1fr;grid-gap: 25px}
+
+   .list-timeline .posts div.desktop {float: left}
+
+   .list-timeline .posts div.mobile {display: none}
 }
 
 @media all and (max-width: 750px) {
-    .formatted ul {margin-left: 25px}
+   .formatted ul {margin-left: 25px}
 
-    .formatted #tw_main {padding: 0 auto 18px}
+   .formatted #tw_main {padding: 0 auto 18px}
 
-    .formatted #tw_main img {width: 100%}
+   .formatted #tw_main img {width: 100%}
 
-    .formatted {font-size: 15px}
+   .formatted {font-size: 15px}
 
-    #redes-sociales {margin: 15px 0 5px}
+   #redes-sociales {margin: 15px 0 5px}
 
-    #redes-sociales li {margin-right: 15px}
+   #redes-sociales li {margin-right: 15px}
 
-    #header #personal-profile {min-height: auto;margin-bottom: 0;padding-bottom: 15px}
+   #header #personal-profile {min-height: auto;margin-bottom: 0;padding-bottom: 15px}
 
-    /* #header #personal-profile .name a {animation: typewriter_movil 4s steps(12) 1s 1 normal both} */
+   .list-timeline .posts div.mobile {display: block}
 
-    .list-timeline .posts div.mobile {display: block}
-    .list-timeline .posts div.desktop {display: none}
-    .wrapper > * {text-align: left;margin: 0 auto;max-width: calc(100% - 8px);width: 100%;padding: 0 8px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
+   .list-timeline .posts div.desktop {display: none}
 
-    #menu li a {font-size: 12px;margin: 10px 0 10px 0;padding: 13px 20px 13px 5px}
+   .wrapper > * {text-align: left;margin: 0 auto;max-width: calc(100% - 8px);width: 100%;padding: 0 8px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
 
-    #menu li a:hover:after, #menu li.selected a:after {right: 8px}
+   #menu li a {font-size: 12px;margin: 10px 0 10px 0;padding: 13px 20px 13px 5px}
+
+   #menu li a:hover:after, #menu li.selected a:after {right: 8px}
+}
+
+@media all and (max-width: 500px) {
+   #header #personal-profile .about__photo {
+      display: none;
+   }
+}
+
+@media all and (max-width: 400px) {
+   #personal-profile .name {font-size: 35px; margin-top: 25px; width: 300px; }
+
+   @keyframes typewriter{
+      from{width: 0;}
+      to{width: 261px;}
+   }
 }
