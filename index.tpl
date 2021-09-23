@@ -15,7 +15,5 @@
    {> home/ficha }
 </haader>
 {> home/content }
-
-{> commons/menu }
 </body>
 </html>
