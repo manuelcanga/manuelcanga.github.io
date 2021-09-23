@@ -603,11 +603,11 @@
             <div class="year"><span class="heading">2003</span>
                 <div class="posts">
                     <article>
-                        <div class="desktop">Amedida</div>
+                        <div class="desktop">A medida</div>
                         <a href="http://web.archive.org/web/20031207213107/http://bailandodesvan.webcindario.com/index.php"
                            title="Bailando en el desván"
-                           target="_blank" rel="nofollow"> <strong>Bailando en el desván</strong></a><span> for forpersonaluse</span>
-                        <div class="mobile">Amedida</div>
+                           target="_blank" rel="nofollow"> <strong>Bailando en el desván</strong></a><span> for for personal use</span>
+                        <div class="mobile">A medida</div>
                     </article>
                     <article>
                         <div class="desktop">A medida</div>

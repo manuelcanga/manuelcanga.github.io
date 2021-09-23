@@ -96,31 +96,11 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 
 #personal-profile .name {font-size: 45px;line-height: 51px;font-weight: 800;margin-top: 35px;margin-bottom: 10px;text-decoration: none;border-bottom: 0;display: inline-block}
 
-#personal-profile .name a { width: 325px; white-space: nowrap;overflow: hidden;display: inline-block;text-decoration: none;animation: typewriter 4s steps(12) 1s 1 normal both}
-
-#personal-profile .name span {animation: blinkTextCursor 500ms steps(44) 11 normal backwards}
+#personal-profile .name a { width: 335px; white-space: nowrap;overflow: hidden;display: inline-block;text-decoration: none;}
 
 #redes-sociales {margin: 7px 5px 0 0;padding: 0 11px 0 0;display: inline-block}
 
 #redes-sociales li {margin-right: 6px;display: inline-block}
-
-@keyframes typewriter {
-   from {width: 0}
-   to {width: calc(100% - 28px); }
-}
-
-@-moz-keyframes typewriter {
-   from { width: 0; }
-}
-
-@-webkit-keyframes typewriter {
-   from { width: 0; }
-}
-
-@keyframes blinkTextCursor {
-   from {color: rgba(255, 255, 255, .75)}
-   to {color: transparent}
-}
 
 #header .personal-profile__work {margin-top: 0;font-size: 16px;line-height: 24px;margin-bottom: 30px;font-weight: normal}
 
