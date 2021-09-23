@@ -8,7 +8,6 @@ return [
 	],
 	'templates' => [
 			'/index',
-			'/portfolio/index',
 	],
 
 ];
