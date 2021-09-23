@@ -6,13 +6,13 @@
                 &nbsp;
             </div>
             <div class="about__me"><h1 class="name"><a href="/">Manuel&nbsp;Canga</a><span>_</span></h1>
-                <h2 class="personal-profile__work">Backend developer, WebPerf</h2>
+                <h2 class="personal-profile__work">Backend developer</h2>
                 <div class="personal-profile__contacts">
                     <dl class="personal-profile__metadata">
                         <dt>Origin:</dt>
                         <dd>Spain / C&oacute;rdoba</dd>
                         <dt>Experience:</dt>
-                        <dd><a href="/portfolio">18 years</a></dd>
+                        <dd><a href="/portfolio">19 years</a></dd>
                     </dl>
                 </div>
                 <ul id="redes-sociales">
