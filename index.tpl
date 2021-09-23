@@ -12,8 +12,6 @@
 </head>
 <body id='web_home'>
 <haader id="header">
-   {> home/header }
-
    {> home/ficha }
 </haader>
 {> home/content }
