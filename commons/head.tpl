@@ -1,5 +1,5 @@
 <meta charset='UTF-8'>
-<title>{{page_title}} - Zend Certified PHP Engineer - Manuel Canga</title>
+<title>Manuel Canga - Zend Certified PHP Engineer</title>
 <meta name="robots" content="index, follow">
 <meta name="author" content="Manuel Canga">
 <meta name="rating" content="general">
@@ -10,7 +10,7 @@
 <meta content="Trasweb" name="twitter:domain">
 <meta content="@trasweb" name="twitter:creator">
 <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
-<meta property='og:title' content='{{page_title}} - Zend Certified PHP Engineer - Manuel Canga'>
+<meta property='og:title' content='Manuel Canga - Zend Certified PHP Engineer'>
 <meta property='og:url' content='http://manuelcanga.local/'>
 <meta property='og:image' content='http://manuelcanga.local/commons/data/paginas/portada/manuel-canga.jpeg'>
 <meta name='twitter:image:src' content='http://manuelcanga.local/commons/data/paginas/portada/manuel-canga.jpeg'>
