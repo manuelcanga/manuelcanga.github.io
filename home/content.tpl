@@ -3,5 +3,7 @@
 		{> home/intro }
 
 		{> home/projects }
+
+		{> home/portfolio }
 	</div>
 </main>
