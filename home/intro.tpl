@@ -4,7 +4,4 @@
             with many years of experience building tailor made web application.<br/>
             Projects I have developed include from a few bespoke CMS and some complex intranets( for university, TV company, ... )
             to fast web portals from the ground up. They can be seen in <a href="/portfolio"><strong>my portfolio</strong></a></p>
-
-        <p>I offer professional PHP support to development web product as freelancer.
-        I can code 10 to 30 hours per week in your project and being like one more in your TEAM. </p>
 </section>
