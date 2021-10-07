@@ -12,7 +12,7 @@
                         <dt>Origin:</dt>
                         <dd>Spain / C&oacute;rdoba</dd>
                         <dt>Experience:</dt>
-                        <dd><a href="/portfolio">19 years</a></dd>
+                        <dd><a href="#portfolio">19 years</a></dd>
                     </dl>
                 </div>
                 <ul id="redes-sociales">
