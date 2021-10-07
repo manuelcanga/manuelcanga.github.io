@@ -600,7 +600,7 @@
                         <a href="courses/ciclo_formativo.jpg"
                            title="Desarrollo de aplicaciones informáticas"
                            target="_blank" rel="nofollow"> <strong>Desarrollo de
-                                aplicaciones informáticas (end)</strong></a>
+                                aplicaciones informáticas</strong> (end)</a>
                         <span>STUDIES, Certificate of Higher Education, Official</span>
                     </article>
 
