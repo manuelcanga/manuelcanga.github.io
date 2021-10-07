@@ -2,7 +2,6 @@
 	<div class='wrapper main'>
 		{> home/intro }
 
-		{> home/projects }
 
 		{> home/portfolio }
 	</div>

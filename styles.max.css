@@ -138,13 +138,16 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
 
 .list-timeline .posts {clear: both}
 
-.list-timeline .posts article {font-size: 16px;line-height: 1.714;margin-top: 4px;margin-bottom: 7px;font-family: Roboto, Georgia, serif}
+.list-timeline .posts article {font-size: 16px; margin-top: 4px;margin-bottom: 6px;font-family: Roboto, Georgia, serif}
 
-.list-timeline .posts article a {display: inline;overflow: hidden;font-size: 16px}
+.list-timeline .posts article a { border:0; display: inline-block; font-size: 16px; line-height: 1.5em; }
+.list-timeline .posts article a.disable {pointer-events: none; }
 
-.list-timeline .post article a.disable {pointer-events: none}
+.list-timeline .posts article strong {  border-bottom: 2px dotted #000; display: inline-block; }
+.list-timeline .posts article a.disable strong {border-bottom: 0; }
 
-.list-timeline .posts div {text-transform: uppercase;padding-top: 1px;padding-right: 42px;color: #606569;min-width: 40px;display: block;width: 150px}
+.list-timeline .posts span {text-transform: uppercase; color: #606569;font-size: 12.5px; word-spacing: 4px; display: block; margin: 0;}
+
 
 @media all and (min-width: 750px) {
    .formatted .tw_main_right {float: right;margin: 0 0 18px 18px}
@@ -152,10 +155,6 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
    .formatted .tw_main_left {float: left;padding: 0 18px 18px 0}
 
    #header .personal-profile__about {position: absolute;height: 260px;display: grid;grid-template-columns:309px 1fr;grid-gap: 25px}
-
-   .list-timeline .posts div.desktop {float: left}
-
-   .list-timeline .posts div.mobile {display: none}
 }
 
 @media all and (max-width: 750px) {
@@ -172,10 +171,6 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
    #redes-sociales li {margin-right: 15px}
 
    #header #personal-profile {min-height: auto;margin-bottom: 0;padding-bottom: 15px}
-
-   .list-timeline .posts div.mobile {display: block}
-
-   .list-timeline .posts div.desktop {display: none}
 
    .wrapper > * {text-align: left;margin: 0 auto;max-width: calc(100% - 8px);width: 100%;padding: 0 8px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box}
 }
