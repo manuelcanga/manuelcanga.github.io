@@ -28,6 +28,11 @@
                         <span>IN-HOUSE FRAMEWORK, COLLABORATION, WORDPRESS</span>
                     </article>
                     <article>
+                        <a href="https://www.fleters.com" class="disable" title="Moving website"
+                           target="_blank" rel="nofollow"><strong>Fleters</strong> [Marketing Call Center]</a>
+                        <span>PORTAL, WEB APP, TAILOR MADE</span>
+                    </article>
+                    <article>
                         <a href="https://wordpress.org/plugins/display-metadata/" title="WordPress plugin shows metas in a metabox"
                            target="_blank"><strong>Display Metadada</strong></a>
                         <span>SIDE PROJECT, PLUGIN, WORDPRESS</span>
@@ -40,6 +45,11 @@
                         <a href="https://unir.net" title="Plataforma Prisma"
                            target="_blank" rel="nofollow"> <strong>Plataforma Prisma</strong> [UNIR]</a>
                         <span>IN-HOUSE FRAMEWORK, COLLABORATION, WORDPRESS</span>
+                    </article>
+                    <article>
+                        <a href="https://www.fleters.com" class="disable" title="Moving website"
+                           target="_blank" rel="nofollow"><strong>Fleters</strong> [Marketing Call Center]</a>
+                        <span>PORTAL, WEB APP, TAILOR MADE</span>
                     </article>
                     <article>
                         <a href="https://wordpress.org/plugins/wpo-checker/" title="WordPress plugin allows to you to check performance"
@@ -68,7 +78,7 @@
                     <article>
                         <a href="https://github.com/manuelcanga/gist-it-php" title="Embed files from a github repository"
                            target="_blank"><strong>Gist it PHP</strong></a>
-                        <span>SIDE PROJECT, TOOL, TAILOR MADE</span>
+                        <span>SIDE PROJECT, WEB APP, TAILOR MADE</span>
                     </article>
                 </div>
             </div>
@@ -190,7 +200,7 @@
                         <a href="https://web.archive.org/web/20140310102244/http://emasesacarreradelagua.net:80/"
                            title="Diplomas Emasesa Carrera Del Agua" target="_blank"
                            rel="nofollow"><strong>Diplomas Emasesa Carrera Del Agua</strong> [Algenio]</a>
-                        <span>TOOL, TAILOR MADE</span>
+                        <span>WEB APP, TAILOR MADE</span>
                     </article>
                 </div>
             </div>
@@ -231,7 +241,7 @@
                     <article>
                         <a href="https://web.archive.org/web/20130611130744/http://wishyouwerehere.es/"
                            title="Web promociona de Mojacar" target="_blank" rel="nofollow"><strong>Web promociona de Mojacar</strong> [Talleremarketing]</a>
-                        <span>HEME, WORDPRESS</span>
+                        <span>THEME, WORDPRESS</span>
                     </article>
                 </div>
             </div>
@@ -394,7 +404,7 @@
                         <a href="https://web.archive.org/web/20070310205419/http://olavidenetwork.upo.es/"
                            title="Olavide Network"
                            target="_blank" rel="nofollow"><strong>Olavide Network</strong> [FactorYDEA]</a>
-                        <span>INTRANET, TAILOR MADE</span>
+                        <span>SOCIAL NETWORK, TAILOR MADE</span>
                     </article>
 
                     <article>
