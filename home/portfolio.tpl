@@ -43,7 +43,7 @@
                 <div class="posts">
                     <article>
                         <a href="https://unir.net" title="Plataforma Prisma"
-                           target="_blank" rel="nofollow"> <strong>Plataforma Prisma</strong> [UNIR]</a>
+                           target="_blank" rel="nofollow"><strong>Plataforma Prisma</strong> [UNIR]</a>
                         <span>IN-HOUSE FRAMEWORK, COLLABORATION, WORDPRESS</span>
                     </article>
                     <article>
@@ -62,12 +62,12 @@
                 <div class="posts">
                         <article>
                             <a href="https://unir.net" title="Plataforma Prisma"
-                               target="_blank" rel="nofollow"> <strong>Plataforma Prisma</strong> [UNIR]</a>
+                               target="_blank" rel="nofollow"><strong>Plataforma Prisma</strong> [UNIR]</a>
                             <span>IN-HOUSE FRAMEWORK, COLLABORATION, WORDPRESS</span>
                         </article>
                     <article>
                         <a href="https://www.elseptimoarte.net/" title="El Séptimo Arte - CONTROL PANEL" target="_blank"
-                           rel="nofollow"> <strong>El Séptimo Arte - CONTROL PANEL</strong> [El7arte]</a>
+                           rel="nofollow"><strong>El Séptimo Arte - CONTROL PANEL</strong> [El7arte]</a>
                         <span>CONTROL PANEL, TAILOR MADE</span>
                     </article>
                     <article>
@@ -86,22 +86,22 @@
                 <div class="posts">
                     <article>
                         <a href="https://www.ximdex.com/" title="Desarrollo CMS Ximdex v4" target="_blank"
-                           rel="nofollow"> <strong>Ximdex v4</strong> [Ximdex]</a>
+                           rel="nofollow"><strong>Ximdex v4</strong> [Ximdex]</a>
                         <span>IN-HOUSE CMS, COLLABORATION, XIMDEX</span>
                     </article>
                     <article>
                         <a href="https://www.elseptimoarte.net/mexico" title="El Séptimo Arte - México" target="_blank"
-                           rel="nofollow"> <strong>El Séptimo Arte - México</strong> [El7arte]</a>
+                           rel="nofollow"><strong>El Séptimo Arte - México</strong> [El7arte]</a>
                         <span>PORTAL, TAILOR MADE</span>
                     </article>
                     <article>
                         <a href="#" title="Area de clientes de BJAbogado" target="_blank" class="disable"
-                           rel="nofollow"> <strong>Area de clientes de BJAbogado</strong> [probitasmarketing.com]</a>
+                           rel="nofollow"><strong>Area de clientes BJAbogado</strong> [probitasmarketing.com]</a>
                         <span>INTRANET, TAILOR MADE</span>
                     </article>
                     <article>
                         <a href="https://web.archive.org/web/20171026214940/https://scalpers.es/" title="Scalpers 2017"
-                           target="_blank" rel="nofollow"> <strong>Scalpers 2017</strong> [Scalpers Company]</a>
+                           target="_blank" rel="nofollow"><strong>Scalpers 2017</strong> [Scalpers Company]</a>
                         <span>E-COMMERCE THEME, MAGENTO2</span>
                     </article>
                 </div>
@@ -142,13 +142,13 @@
                     </article>
                     <article>
                         <a href="#" title="Plataforma multisite: Espacios creativos"
-                           class="disable" rel="nofollow"><strong>Plataforma multisite: Espacios creativos</strong>
+                           class="disable" rel="nofollow"><strong>Espacios creativos</strong>
                             [Mecánico Ingenio S.L]</a>
-                        <span>IN-HOUSE MULTISITE, TAILOR MADE</span>
+                        <span>IN-HOUSE MULTISITE PLATFORM, TAILOR MADE</span>
                     </article>
                     <article>
                         <a href="https://www.zend-zce.com/en/yellow-pages/ZEND027935" title="PHP Zend Certified Engineer"
-                           target="_blank"><strong>Official PHP Zend Certified Engineer</strong> [Zend Technologies]</a>
+                           target="_blank"><strong>PHP Zend Certified Engineer</strong> [Zend Technologies]</a>
                         <span>CERTIFICATION, PHP, OFFICIAL</span>
                     </article>
                     <article>
@@ -169,13 +169,13 @@
                     <article>
                         <a href="https://web.archive.org/web/20141229001603/http://trasweb.net:80/"
                            title="Trasweb.net 2014" target="_blank"
-                           rel="nofollow"> <strong>Trasweb.net 2014</strong> [Personal use]</a>
+                           rel="nofollow"><strong>Trasweb.net 2014</strong> [Personal use]</a>
                         <span>SIDE PROJECT, WEBSITE, TAILOR MADE</span>
                     </article>
                     <article>
                         <a href="https://web.archive.org/web/20141220075717/http://www.madridxanadu.com/"
                            title="Centro Comercial Madrid Xanadú 2014" target="_blank"
-                           rel="nofollow"> <strong>Centro Comercial Madrid Xanadú 2014</strong> [Talleremarketing]</a>
+                           rel="nofollow"><strong>Madrid Xanadú 2014</strong> [Talleremarketing]</a>
                         <span>THEME, WORDPRESS</span>
                     </article>
                     <article>
@@ -187,13 +187,13 @@
                     <article>
                         <a href="https://web.archive.org/web/20131122174103/http://bluebear-snacks.com:80/"
                            title="Blue Bear Snacks " target="_blank"
-                           rel="nofollow"> <strong>Blue Bear Snacks</strong> [Talleremarketing]</a>
+                           rel="nofollow"><strong>Blue Bear Snacks</strong> [Talleremarketing]</a>
                         <span>THEME, WORDPRESS</span>
                     </article>
                     <article>
                         <a href="https://web.archive.org/web/20140807045401/https://www.continuosdelsur.com/"
                            title="Blue Bear Snacks" target="_blank"
-                           rel="nofollow"> <strong>Continuos del sur</strong> [probitasmarketing.com]</a>
+                           rel="nofollow"><strong>Continuos del sur</strong> [probitasmarketing.com]</a>
                         <span>THEME, WORDPRESS</span>
                     </article>
                     <article>
@@ -214,7 +214,7 @@
                     <article>
                         <a href="https://web.archive.org/web/20131203082234/http://www.madridxanadu.com/"
                            title="Centro Comercial Madrid Xanadú 2013" target="_blank"
-                           rel="nofollow"><strong>Centro Comercial Madrid Xanadú 2013</strong> [Talleremarketing]</a>
+                           rel="nofollow"><strong>adrid Xanadú 2013</strong> [Talleremarketing]</a>
                         <span>THEME, WORDPRESS</span>
                     </article>
                     <article>
@@ -250,7 +250,7 @@
                     <article>
                         <a href="https://web.archive.org/web/20130614001848/http://mmva.es/"
                            title="Mancomunidad de Municipios F.E. del Valle del Almanzora" target="_blank" rel="nofollow"
-                        ><strong>Mancomunidad de Municipios F.E. del Valle del Almanzora</strong> [Talleremarketing]</a>
+                        ><strong>Mancomunidad Municipios Valle Almanzora</strong> [Talleremarketing]</a>
                         <span>THEME, JOOMLA</span>
                     </article>
                     <article>
@@ -609,7 +609,7 @@
                     <article>
                         <a href="courses/ciclo_formativo.jpg"
                            title="Desarrollo de aplicaciones informáticas"
-                           target="_blank" rel="nofollow"> <strong>Desarrollo de
+                           target="_blank" rel="nofollow"><strong>Desarrollo de
                                 aplicaciones informáticas</strong> (end)</a>
                         <span>STUDIES, Certificate of Higher Education, Official</span>
                     </article>
