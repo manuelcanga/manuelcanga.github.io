@@ -6,7 +6,7 @@
                 &nbsp;
             </div>
             <div class="about__me"><h1 class="name"><a href="/" title="PHP Developer">Manuel&nbsp;Canga</a><span>_</span></h1>
-                <h2 class="personal-profile__work">Zend Certified PHP Engineer</h2>
+                <h2 class="personal-profile__work">Web back-end developer</h2>
                 <div class="personal-profile__contacts">
                     <dl class="personal-profile__metadata">
                         <dt>Origin:</dt>

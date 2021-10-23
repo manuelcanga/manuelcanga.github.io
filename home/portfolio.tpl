@@ -181,7 +181,7 @@
                     <article>
                         <a href="https://web.archive.org/web/20150925054310/http://paraninfo.universidadlaboralcordoba.es:80/"
                            title="Asociación de Laborales de Córdoba" target="_blank"
-                           rel="nofollow"><strong>Asociación de Laborales de  Córdoba</strong> [Paraninfo]</a>
+                           rel="nofollow"><strong>Asociación Laborales de Córdoba</strong> [Paraninfo]</a>
                         <span>PORTAL, INTRANET, TAILOR MADE</span>
                     </article>
                     <article>
@@ -214,7 +214,7 @@
                     <article>
                         <a href="https://web.archive.org/web/20131203082234/http://www.madridxanadu.com/"
                            title="Centro Comercial Madrid Xanadú 2013" target="_blank"
-                           rel="nofollow"><strong>adrid Xanadú 2013</strong> [Talleremarketing]</a>
+                           rel="nofollow"><strong>Madrid Xanadú 2013</strong> [Talleremarketing]</a>
                         <span>THEME, WORDPRESS</span>
                     </article>
                     <article>

@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang='es'>
 <head>
-   <meta data-app="page_title" content="Manuel Canga - PHP Web Developer">
+   <meta data-app="page_title" content="Manuel Canga · Web back-end developer · Zend Certified PHP Engineer">
    <meta data-app="app_css" content="styles.css">
 
-   <meta name='description' content='La satisfacción de darles vida a sus páginas web haciéndolas rápidas, posicionables y a medida de sus necesidades.'>
-   <meta property='og:description' content='La satisfacción de darles vida a sus páginas web haciéndolas rápidas, posicionables y a medida de sus necesidades.'>
+   <meta name='description' content='Hi!, I am Manuel Canga, a Web back-end developer, with many years of experience building tailor made web application'>
+   <meta property='og:description' content='Hi!, I am Manuel Canga, a Web back-end developer, with many years of experience building tailor made web application'>
    <meta property='og:seo_type' content='website'>
 
    {> commons/head }
