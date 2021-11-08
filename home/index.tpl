@@ -4,9 +4,9 @@
    <meta data-app="page_title" content="Portfolio">
 
    <meta name='description'
-         content='Here they are all my apps built tailor made. Apart of these websites I have updated, supported and helped to develop others( since 2002 ).'>
+         content='Hola!, soy Manuel Canga, desarrollo sitios y aplicaciones webs desde hace 19 a&ntilde;os. Entra y con&oacute;ceme.'>
    <meta property='og:description'
-         content='Here they are all my apps built tailor made. Apart of these websites I have updated, supported and helped to develop others( since 2002 ).'>
+         content='Hola!, soy Manuel Canga, desarrollo sitios y aplicaciones webs desde hace 19 a&ntilde;os. Entra y con&oacute;ceme.'>
    <meta property='og:seo_type' content='article'>
 
    {> commons/head }
