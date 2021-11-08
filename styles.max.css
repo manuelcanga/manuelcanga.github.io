@@ -305,8 +305,13 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
 
 @media all and (max-width: 500px) {
    #personal-profile .name {
-      font-size: 30px;
+      font-size: 35px;
       line-height: 35px;
+      margin-top: 25px;
+   }
+
+   #personal-profile .name a {
+      word-spacing: -10px;
    }
 
    #header .personal-profile__work {

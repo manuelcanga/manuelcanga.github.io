@@ -153,7 +153,7 @@
                     </article>
                     <article>
                         <a href="https://www.zend-zce.com/en/yellow-pages/ZEND027935" title="PHP Zend Certified Engineer"
-                           target="_blank"><strong>PHP Zend Certified Engineer</strong> [Zend Technologies]</a>
+                         rel="noopener"  target="_blank"><strong>PHP Zend Certified Engineer</strong> [Zend Technologies]</a>
                         <span>CERTIFICATION, PHP, OFFICIAL</span>
                     </article>
                     <article>
