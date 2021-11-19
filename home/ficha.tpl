@@ -13,7 +13,7 @@
                         <dt>Origin:</dt>
                         <dd>Spain / C&oacute;rdoba</dd>
                         <dt>Experience:</dt>
-                        <dd><a href="#portfolio" title="PHP experience">19 years</a></dd>
+                        <dd><a href="#portfolio" title="PHP experience">19 years I've been learning</a></dd>
                     </dl>
                 </div>
                 <ul id="redes-sociales">
