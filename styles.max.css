@@ -220,6 +220,28 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 
 .personal-profile .personal-profile__social a:hover {opacity: 1}
 
+.my-top-goals {
+   list-style-type: none;
+   list-style-image: none;
+
+   text-align: center;
+   margin: 10px auto;
+   padding: 0;
+}
+
+.my-top-goals li {
+   display: inline-block;
+}
+
+.my-top-goals li img {
+   max-width: 100%;
+}
+
+.my-top-goals li:last-child{
+   margin-left: 100px;
+   max-width: 401px;
+}
+
 .my_projects {
    margin-top: 50px;
 }
@@ -321,5 +343,9 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
 
    #header #personal-profile .about__photo {
       display: none;
+   }
+
+   .my-top-goals li:last-child {
+      margin: 10px 0;
    }
 }
