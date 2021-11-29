@@ -5,7 +5,7 @@ body {
    font-size: 16px;
    font-weight: 400;
    line-height: 30px;
-   color: #7e7a70;
+   color: #a8a399;
    padding-bottom: 75px;
    width: 100%;
    background-color: #111214;
@@ -64,7 +64,7 @@ hr {
 
 h1, h2, h3{
    margin-bottom: 40px;
-   font-family: Roboto Mono, monospace;
+   font-family: Amstrad CPC464 Regular, Roboto Mono, monospace;
    font-weight: bold;
    color: #eff0f1;
 }
@@ -117,7 +117,7 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 
 #header {
    color: #fefefe;
-   font-family: Roboto Mono, monospace;
+   font-family: Amstrad CPC464 Regular, Roboto Mono, monospace;
    background-color: #17181a;
    height: 100%;
    background-repeat: no-repeat;
@@ -128,14 +128,17 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
    display: block
 }
 
-#header a:link, #header a:visited, #header a:hover, #header a:active {color: #fefefe;font-family: Roboto Mono, monospace}
+#header a:link, #header a:visited, #header a:hover, #header a:active {
+   color: #fefefe;
+   font-family: Amstrad CPC464 Regular, Roboto Mono, monospace
+}
 
 #personal-profile {
    padding: 0 0 0 15px;
    min-height: 280px;
    margin-bottom: 50px;
    color: #fefefe;
-   font-family: Roboto Mono, monospace
+   font-family: Amstrad CPC464 Regular, Roboto Mono, monospace
 }
 
 #personal-profile .about__photo {
@@ -177,6 +180,7 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
    text-decoration: none;
    position: relative;
    padding-bottom: 10px;
+   text-transform: uppercase;
 }
 
 #personal-profile .name a:after {
@@ -201,7 +205,7 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
 
 #redes-sociales li {margin-right: 6px;display: inline-block}
 
-#header .personal-profile__metadata {
+#header .personal-profile__metadata, #header .personal-profile__metadata a {
    font-size: 16px;
    line-height: 18px;
    font-family: Roboto Mono, monospace;
@@ -246,7 +250,11 @@ header .meta-info {font-size: 11px;text-transform: uppercase;padding: 10px 0;bor
    margin-top: 50px;
 }
 
-h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-family: Roboto Mono, monospace}
+h1.section__title {
+   margin-bottom: 40px;
+   font-size: 36px;
+   line-height: 42px;
+   font-family: Amstrad CPC464 Regular, Roboto Mono, monospace}
 
 .list-timeline {
    margin-top: 62px;
@@ -256,7 +264,7 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
 .list-timeline .year {margin-left: 25px;position: relative;margin-bottom: 42px;color: #4a4a4a}
 
 .list-timeline .heading {
-   font-family: Roboto Mono, monospace;
+   font-family: Amstrad CPC464 Regular, Roboto Mono, monospace;
    font-weight: 700;
    font-size: 14px;
    float: left;
@@ -327,9 +335,13 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
 
 @media all and (max-width: 500px) {
    #personal-profile .name {
-      font-size: 35px;
+      font-size: 23.5px;
       line-height: 35px;
       margin-top: 25px;
+   }
+
+   h2 {
+      font-size: 23.5px;
    }
 
    #personal-profile .name a {
@@ -337,7 +349,7 @@ h1.section__title {margin-bottom: 40px;font-size: 36px;line-height: 42px;font-fa
    }
 
    #header .personal-profile__work {
-      font-size: 14px;
+      font-size: 13px;
       margin-bottom: 0;
    }
 
