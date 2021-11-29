@@ -82,13 +82,6 @@ h2 {
    display: inline-block;
 }
 
-h2:after {
-   content: '_';
-   right: 0;
-   bottom: -6px;
-   position: relative;
-}
-
 h3 {
    font-size: 32px;
    line-height: 38px
