@@ -5,6 +5,5 @@
 
 		{> home/portfolio }
 
-		{> home/recommendations }
 	</div>
 </main>

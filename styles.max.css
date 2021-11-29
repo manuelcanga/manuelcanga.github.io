@@ -75,7 +75,7 @@ h1 {
 }
 
 h2 {
-   font-size: 34px;
+   font-size: 25px;
    line-height: 40px;
    margin: 20px 0 0;
    padding-bottom: 0;
@@ -265,7 +265,7 @@ h1.section__title {
 
 .list-timeline .heading {
    font-family: Amstrad CPC464 Regular, Roboto Mono, monospace;
-   font-weight: 700;
+   font-weight: normal;
    font-size: 14px;
    float: left;
    padding: 0 12px 0;
