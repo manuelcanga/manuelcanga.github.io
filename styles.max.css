@@ -75,7 +75,7 @@ h1 {
 }
 
 h2 {
-   font-size: 25px;
+   font-size: 23px;
    line-height: 40px;
    margin: 20px 0 0;
    padding-bottom: 0;
@@ -268,21 +268,45 @@ h1.section__title {
    margin-bottom: 14px
 }
 
-.list-timeline .heading::before {display: block;position: absolute;top: 0;left: -25px;width: 25px;height: 2px;background: #4a4a4a;content: " "}
+.list-timeline .heading::before {
+   display: block;
+   position: absolute;
+   top: 0;left: -25px;
+   width: 25px;
+   height: 2px;
+   background: #4a4a4a;
+   content: " "
+}
 
-.list-timeline .posts {clear: both}
+.list-timeline .posts {
+   clear: both
+}
+.list-timeline .posts article {
+   font-size: 16px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   font-family: Roboto, Georgia, serif;
+}
 
-.list-timeline .posts article {font-size: 16px; margin-top: 10px;margin-bottom: 10px;font-family: Roboto, Georgia, serif; }
+.list-timeline .posts article a {
+   border:0;
+   display: inline-block;
+   font-size: 14px;
+   line-height: 1.5em;
+}
 
-.list-timeline .posts article a { border:0; display: inline-block; font-size: 14px; line-height: 1.5em; }
-.list-timeline .posts article a.disable {pointer-events: none; }
+.list-timeline .posts article a.disable {
+   pointer-events: none;
+}
 
 .list-timeline .posts article strong {
    border-bottom: 2px dotted  #9a9997;
    display: inline-block;
 }
 
-.list-timeline .posts article a.disable strong {border-bottom: 0; }
+.list-timeline .posts article a.disable strong {
+   border-bottom: 0;
+}
 .list-timeline .posts article a.disable +  span {
    line-height: 10px;
 }
@@ -297,6 +321,52 @@ h1.section__title {
    line-height: 20px;
 }
 
+/**
+Recommendations
+ */
+ul#recommendations_list {
+   margin: 10px 0;
+   padding: 10px 0;
+}
+
+ul#recommendations_list li {
+   position: relative;
+   list-style-type: none;
+   display: block;
+   vertical-align: top;
+   border-bottom: 1px solid #4a4a4a;
+   padding: 0 0 10px 0;
+   overflow: hidden;
+}
+
+ul#recommendations_list li:last-child {
+   border-bottom: none;
+}
+
+ul#recommendations_list li::before {
+   content: ' ';
+   border: 1px solid #4a4a4a;
+   height: 100%;
+   left: 340px;
+   top: 0;
+   position: absolute;
+}
+
+ul#recommendations_list img {
+   float: left;
+   width: 350px;
+   margin-top: 5px;
+}
+
+ul#recommendations_list p {
+   float: left;
+   width: calc( 100% - 355px );
+   margin: 0;
+   padding: 7px 5px 0 0;
+   box-sizing: border-box;
+   line-height: 1.5em;
+   text-align: justify;
+}
 
 @media all and (min-width: 750px) {
    #header .personal-profile__about {position: absolute;height: 260px;display: grid;grid-template-columns:309px 1fr;grid-gap: 25px}
@@ -324,6 +394,28 @@ h1.section__title {
       margin-left: 15px;
    }
 
+   ul#recommendations_list li {
+      text-align: center;
+      margin-top: 25px;
+      padding-bottom: 30px;
+      border-bottom: 1px dashed #4a4a4a;
+   }
+
+   ul#recommendations_list img {
+      float: none;
+      margin: 0 auto;
+   }
+
+   ul#recommendations_list p {
+      float: none;
+      clear: left;
+      width: 100%;
+   }
+
+   ul#recommendations_list li::before {
+      content: '';
+      border: 0;
+   }
 }
 
 @media all and (max-width: 500px) {
@@ -334,7 +426,7 @@ h1.section__title {
    }
 
    h2 {
-      font-size: 23.5px;
+      font-size: 21.5px;
    }
 
    #personal-profile .name a {
