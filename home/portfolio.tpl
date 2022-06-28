@@ -6,6 +6,25 @@
                     others (since 2002).</p></div>
         </div>
         <div class="list-timeline">
+            <div class="year"><span class="heading">2022</span>
+                <div class="posts">
+                    <article>
+                        <a href="https://unir.net" title="Plataforma Prisma"
+                           target="_blank" rel="noopener nofollow"><strong>Plataforma Prisma</strong> [UNIR]</a>
+                        <span>IN-HOUSE FRAMEWORK, COLLABORATION, WORDPRESS</span>
+                    </article>
+                    <article>
+                        <a href="https://unir.net" title="Plataforma Prisma"
+                           target="_blank" rel="noopener nofollow"><strong>Venus Jira</strong> [UNIR]</a>
+                        <span>WEB APP, Symfony, Gitlab, Jira</span>
+                    </article>
+                    <article>
+                        <a href="https://media-exp2.licdn.com/dms/image/C4E22AQFXpr1IoloIAg/feedshare-shrink_1280/0/1651397030601?e=1659571200&v=beta&t=abr3WkygEheNgqit8fozxUGdlxC5ybKwREUuJBmC0Y4" title="MinaRoja"
+                           rel="noopener" target="_blank"><strong>MinaRoja</strong></a>
+                        <span>SIDE PROJECT, WEB APP, Symfony</span>
+                    </article>
+                </div>
+            </div>
             <div class="year"><span class="heading">2021</span>
                 <div class="posts">
                     <article>
