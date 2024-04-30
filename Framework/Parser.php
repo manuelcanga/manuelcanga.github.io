@@ -149,7 +149,7 @@ final class Parser {
 	 *
 	 * @return string
 	 */
-	final private function do_block( $tokens ): string {
+	private function do_block( $tokens ): string {
 		$block_name = $tokens[ 'block_name' ];
 		$var        = $tokens[ 'var' ] ?? '';
 		$content    = $tokens[ 'content' ] ?? '';
@@ -177,7 +177,7 @@ final class Parser {
 	 *
 	 * @return string
 	 */
-	final private function do_foreach( string $var, string $content_of_foreach ): string {
+	private function do_foreach( string $var, string $content_of_foreach ): string {
 		$vars      = explode( ' as ', $var ?? '' );
 		$var_name  = trim( $vars[ 0 ] );
 		$var_alias = trim( $vars[ 1 ] ?? 'item' );
@@ -198,7 +198,7 @@ final class Parser {
 	 *
 	 * @return mixed|string
 	 */
-	final private function get_value_of_var_name( string $var_name ) {
+	private function get_value_of_var_name( string $var_name ) {
 		$var_name = \trim( $var_name );
 
 		$vars_name = \explode( '.', $var_name );
@@ -229,7 +229,7 @@ final class Parser {
 	 *
 	 * @return string
 	 */
-	final private function parse_content_for_all_items( iterable $items_to_iterate, string $content_of_foreach, string $var_alias ): string {
+	private function parse_content_for_all_items( iterable $items_to_iterate, string $content_of_foreach, string $var_alias ): string {
 		$index = 1;
 		$max   = count( $items_to_iterate );
 
@@ -258,7 +258,7 @@ final class Parser {
 	 *
 	 * @return string
 	 */
-	final private function do_if( string $var_of_conditional, string $content_of_conditional ): string {
+	private function do_if( string $var_of_conditional, string $content_of_conditional ): string {
 		$true_with_empty    = '!' === $var_of_conditional[ 0 ];
 		$var_of_conditional = ltrim( $var_of_conditional, '! ' );
 
@@ -282,7 +282,7 @@ final class Parser {
 	 *
 	 * @return string
 	 */
-	final private function var_assign( array $tokens ): string {
+	private function var_assign( array $tokens ): string {
 		$var   = $tokens[ 'var_name' ] ?? '';
 		$value = $tokens[ 'var_value' ] ?? '';
 
@@ -302,7 +302,7 @@ final class Parser {
 	 *
 	 * @return string
 	 */
-	final private function include_file( array $tokens ): string {
+	private function include_file( array $tokens ): string {
 		$file_name = trim( $tokens[ 'file_name' ] ?? '' );
 
 		return Parser::from_file( '/' . $file_name, $this->vars )->parse_template();
