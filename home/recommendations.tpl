@@ -1,7 +1,7 @@
 <section class="container section recommendations">
     <h2 id="recommendations">Recommendations</h2>
     <div id="content" class="formatted">
-        <ul id="recommendations_list" s>
+        <ul id="recommendations_list">
             <li>
                 <img src="/recommendations/victor-rodriguez.png" alt="Víctor Roríguez recommendation"
                      loading="lazy" width="350" height="115" />
