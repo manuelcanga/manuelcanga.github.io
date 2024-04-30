@@ -6,6 +6,20 @@
                     others (since 2002).</p></div>
         </div>
         <div class="list-timeline">
+            <div class="year"><span class="heading">2023</span>
+                <div class="posts">
+                    <article>
+                        <a href="https://www.elseptimoarte.net/mexico" title="El Séptimo Arte v2 - Symfony" target="_blank"
+                           rel="noopener nofollow"><strong>El Séptimo Árte v2</strong> [El7arte]</a>
+                        <span>PORTAL, Symfony, Twig, TAILOR MADE</span>
+                    </article>
+                    <article>
+                        <a href="https://unir.net" title="Plataforma Prisma"
+                           target="_blank" rel="noopener nofollow"><strong>Plataforma Prisma</strong> [UNIR]</a>
+                        <span>IN-HOUSE FRAMEWORK, COLLABORATION, WORDPRESS</span>
+                    </article>
+                </div>
+            </div>
             <div class="year"><span class="heading">2022</span>
                 <div class="posts">
                     <article>
