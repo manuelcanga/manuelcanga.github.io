@@ -6,8 +6,42 @@
                     others (since 2002).</p></div>
         </div>
         <div class="list-timeline">
-            <div class="year"><span class="heading">2023</span>
+            <div class="year"><span class="heading">2025</span>
                 <div class="posts">
+                <article>
+                    <a href="https://www.credly.com/badges/85e482d8-4758-4826-a067-cef4da53724b/public_url"
+                       title="Microservices and Serverless target=" target="_blank"
+                       rel="noopener nofollow"><strong>Microservices and Serverless</strong></a>
+                    <span>STUDIES, API, Microservices, Serverless, Flask, IBM, OFFICIAL</span>
+                </article>
+
+                <article>
+                    <a href="https://www.credly.com/badges/c8f94fe6-e908-4f19-87ba-37a4b118fc86/public_url"
+                       title="Introduction to Test Driven Development with Python" target="_blank"
+                       rel="noopener nofollow"><strong>Introduction to Test Driven Development (Python)</strong></a>
+                    <span>STUDIES, PYTHON, TDD, BDD, PyUnit, IBM, OFFICIAL</span>
+                </article>
+
+                <article>
+                    <a href="https://www.credly.com/badges/071210ee-1e3c-4f3a-8a84-ec2abf472afa/public_url"
+                       title="Python for AI & Development Project" target="_blank"
+                       rel="noopener nofollow"><strong>Python for AI & Development Project</strong></a>
+                    <span>STUDIES, PYTHON, AI, Flask,IBM, OFFICIAL</span>
+                </article>
+                    <article>
+                        <a href="https://unir.net" title="Plataforma Prisma"
+                           target="_blank" rel="noopener nofollow"><strong>Plataforma Prisma</strong> [UNIR]</a>
+                        <span>IN-HOUSE FRAMEWORK, COLLABORATION, WORDPRESS</span>
+                    </article>
+                </div>
+            </div>
+            <div class="year"><span class="heading">2024</span>
+                <div class="posts">
+                    <article>
+                        <a href="https://wordpress.org/plugins/display-metadata/" title="WordPress plugin shows metas in a metabox"
+                           rel="noopener" target="_blank"><strong>Display Metadada v1.0.0</strong></a>
+                        <span>SIDE PROJECT, PLUGIN, WORDPRESS</span>
+                    </article>
                     <article>
                         <a href="https://www.elseptimoarte.net/mexico" title="El Séptimo Arte v2 - Symfony" target="_blank"
                            rel="noopener nofollow"><strong>El Séptimo Árte v2</strong> [El7arte]</a>
@@ -17,6 +51,30 @@
                         <a href="https://unir.net" title="Plataforma Prisma"
                            target="_blank" rel="noopener nofollow"><strong>Plataforma Prisma</strong> [UNIR]</a>
                         <span>IN-HOUSE FRAMEWORK, COLLABORATION, WORDPRESS</span>
+                    </article>
+                    <article>
+                        <a href="https://unir.net" title="CloudEvents"
+                           target="_blank" rel="noopener nofollow"><strong>CloudEvents</strong> [UNIR]</a>
+                        <span>API Gateway, COLLABORATION, Laravel</span>
+                    </article>
+                </div>
+            </div>
+            <div class="year"><span class="heading">2023</span>
+                <div class="posts">
+                    <article>
+                        <a href="https://www.elseptimoarte.net/mexico" title="El Séptimo Arte v2 - Symfony" target="_blank"
+                           rel="noopener nofollow"><strong>El Séptimo Árte v2</strong> [El7arte]</a>
+                        <span>PORTAL, Symfony, Twig, TAILOR MADE</span>
+                    </article>
+                    <article>
+                        <a href="https://unir.edu.co" title="Plataforma Prisma2"
+                           target="_blank" rel="noopener nofollow"><strong>Plataforma Prisma v2</strong> [UNIR]</a>
+                        <span>IN-HOUSE FRAMEWORK, COLLABORATION, WORDPRESS</span>
+                    </article>
+                    <article>
+                        <a href="https://unir.net" title="LaraCoupon"
+                           target="_blank" rel="noopener nofollow"><strong>LaraCoupon</strong> [UNIR]</a>
+                        <span>API Gateway, COLLABORATION, Laravel</span>
                     </article>
                 </div>
             </div>
@@ -333,7 +391,7 @@
                 <div class="posts">
                     <article>
                         <a href="https://web.archive.org/web/20090705000543/http://manuelcanga.es:80/freelance-web/" title="Trasweb.net 2018"
-                           rel="noopener" target="_blank" rel="noopener nofollow"><strong>ManuelCanga.es</strong> [Personal use]</a>
+                           rel="noopener" target="_blank"><strong>ManuelCanga.es</strong> [Personal use]</a>
                         <span>SIDE PROJECT, THEME, WORDPRESS</span>
                     </article>
                 </div>
